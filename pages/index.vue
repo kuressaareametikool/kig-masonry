@@ -3,6 +3,7 @@ const routes = useRouter().options.routes;
 </script>
 <template>
   <div>
+    <p>15. novembri e-tund</p>
     <nuxt-link
       v-for="r in routes.filter((r) => r.name !== 'index')"
       :to="r.path"
