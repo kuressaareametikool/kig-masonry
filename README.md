@@ -1,4 +1,6 @@
-# KIG-dataviz
+# KIG21 15. nov e-tund
+
+Nimi pisut eksitav, päris masonry-tüüpi layoudiga tegu pole, tegelikult lihtsalt css grid
 
 ## Setup
 
